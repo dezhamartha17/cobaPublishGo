@@ -30,3 +30,5 @@ func TestGetAll(t *testing.T) {
 	data := GetAllPresensi()
 	fmt.Println(data)
 }
+
+// TEST
